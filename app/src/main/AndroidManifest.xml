@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".Temas" />
-        <activity android:name=".Nuevo"></activity>
+        <activity android:name=".Nuevo" />
+        <activity android:name=".Categorias_tipo_Activity"></activity>
     </application>
 
 </manifest>
